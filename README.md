@@ -1,5 +1,5 @@
-# -DataSet-
-## 人脸数据集（dataset of face）
+# -DataSets-
+## 人脸数据集（datasets of face）
 
 
 ## CASIA-SURF:
