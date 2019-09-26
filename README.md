@@ -1,94 +1,94 @@
 ## 人脸检测 face detection 
 
-Caltech 10000
+Caltech 10000 ： 
 http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/
 
-FDDB
+FDDB ： 
 http://vis-www.cs.umass.edu/fddb/index.html
 
-WIDER Face
+WIDER Face ： 
 http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
 
-MALF
+MALF ： 
 http://www.cbsr.ia.ac.cn/faceevaluation/
 
 
 ## 人脸对齐 face alignment
-XM2VTS
+XM2VTS ： 
 http://www.ee.surrey.ac.uk/CVSSP/xm2vtsdb/
 
-AR Face Database
+AR Face Database ： 
 http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html
 
-FGVC-V2
+FGVC-V2 ： 
 https://www.nist.gov/programs-projects/face-recognition-grand-challenge-frgc
 
-LFPW 
+LFPW ： 
 https://neerajkumar.org/projects/face-parts/
 
-Helen
+Helen ： 
 http://www.ifp.illinois.edu/~vuongle2/helen/
 
-IBUG
+IBUG ： 
 https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/
 
-AFLW
+AFLW ： 
 https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/
 
-300W
+300W ： 
 https://ibug.doc.ic.ac.uk/resources/300-W/
 
 300-VW(300 Videos in the Wild)
 https://ibug.doc.ic.ac.uk/resources/300-VW/
 
-MTFL/MAFL
+MTFL/MAFL ： 
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 
-WFLW
+WFLW ： 
 https://wywu.github.io/projects/LAB/WFLW.html
 
 
 ## 人脸识别 face recognition
-FERET
+FERET ： 
 http://www.nist.gov/itl/iad/ig/colorferet.cfm
 
-Yale/YaleB
+Yale/YaleB ： 
 http://vision.ucsd.edu/~iskwak/ExtYaleDatabase/Yale%20Face%20Database.htm
 
-CAS-PEAL
+CAS-PEAL ： 
 http://www.jdl.ac.cn/peal/
 
-LFW
+LFW ： 
 http://vis-www.cs.umass.edu/lfw/index.html#download
 
-CMU PIE
+CMU PIE ： 
 https://www.ri.cmu.edu/publications/the-cmu-pose-
 
-Multi-PIE
+Multi-PIE ： 
 http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html
 
-Pubfig
+Pubfig ： 
 http://www.cs.columbia.edu/CAVE/databases/pubfig/
 
-MSRA-CFW
+MSRA-CFW ： 
 http://research.microsoft.com/en-us/projects/msra-cfw/
 
-CASIA WebFace
+CASIA WebFace ： 
 http://classif.ai/dataset/casia-webface/
 
-Celeba
+Celeba ： 
 http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
-FaceScrub
+FaceScrub ： 
 http://vintage.winklerbros.net/facescrub.html
 
-UMDFaces
+UMDFaces ： 
 http://www.umdfaces.io/
 
-MegaFace											
+MegaFace : 											
 http://megaface.cs.washington.edu/dataset/download.html
 
-MS-Celeb-1M
+MS-Celeb-1M : 
 https://www.msceleb.org/
 
 VGG Face
