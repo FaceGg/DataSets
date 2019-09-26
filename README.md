@@ -1,5 +1,5 @@
-# 人脸检测
-### Caltech 10000
+# 人脸检测 face detection 
+## Caltech 10000
 http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/
 ## FDDB
 http://vis-www.cs.umass.edu/fddb/index.html
@@ -8,7 +8,7 @@ http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
 ## MALF
 http://www.cbsr.ia.ac.cn/faceevaluation/
 
-# 关键点检测
+# 人脸对齐 face alignment
 ## XM2VTS
 http://www.ee.surrey.ac.uk/CVSSP/xm2vtsdb/
 ## AR Face Database
@@ -32,7 +32,7 @@ http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 ## WFLW
 https://wywu.github.io/projects/LAB/WFLW.html
 
-# 人脸识别
+# 人脸识别 face recognition
 ## FERET
 http://www.nist.gov/itl/iad/ig/colorferet.cfm
 ## Yale/YaleB
@@ -71,7 +71,7 @@ http://www.cs.tau.ac.il/~wolf/ytfaces/results.html
 ## IARPA Janus
 https://www.iarpa.gov/index.php/research-programs/janus
 
-# 人脸表情
+# 人脸表情 Facial expression
 ## JAFFE
 http://www.kasrl.org/jaffe.html
 ## KDEF&AKDEF
@@ -89,7 +89,7 @@ http://www.whdeng.cn/RAF/model1.html
 ## EmotionNet
 http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/
 
-# 人脸年龄和性别
+# 人脸年龄和性别 age
 ## FGNet
 http://www-prima.inrialpes.fr/FGnet/html/benchmarks.html
 ## CACD2000
@@ -101,7 +101,7 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 ## MORPH
 http://www.faceaginggroup.com/morph/
 
-# 人脸姿态
+# 人脸姿态 pose
 ## 3DMM
 https://faces.dmi.unibas.ch/
 ## Bosphorus
@@ -119,15 +119,8 @@ http://gi4e.unavarra.es/databases/hpdb/
 ## 300W-LP
 http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm
 
-# 其他
+# 其他 others
 ## SCUT-FBP
 https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
 ## MakeUp
 http://www.antitza.com/makeup-datasets.html
-
-
-
-
-
-
-
