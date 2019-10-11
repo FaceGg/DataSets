@@ -133,7 +133,7 @@ EmotionNet :
 http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/
 
 
-## 人脸年龄和性别 age
+## 人脸年龄和性别 age and Gender
 FGNet : 
 http://www-prima.inrialpes.fr/FGnet/html/benchmarks.html
 
